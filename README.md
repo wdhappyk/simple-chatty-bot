@@ -1,2 +1,2 @@
-# simple-chatty-bot
-project from jetbrains academy
+# Simple Chatty Bot
+Project from Jetbrains Academy
